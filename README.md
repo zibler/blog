@@ -5,3 +5,7 @@ The purpuse of this page is for me to share my thoughts on anything that comes t
 ## Why GitHub?
 
 Just because I wanted something simple. No other reason.
+
+## Blogs
+
+[My Colemak Keyboard Layout Experience](../2020-02/colemak.md)
