@@ -8,4 +8,6 @@ Just because I wanted something simple. No other reason.
 
 ## Blogs
 
-[My Colemak Keyboard Layout Experience](./2020-02/colemak.md)
+### February 2021
+
+- [My Colemak Keyboard Layout Experience](./2020-02/colemak.md)
