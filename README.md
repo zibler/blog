@@ -8,4 +8,4 @@ Just because I wanted something simple. No other reason.
 
 ## Blogs
 
-[My Colemak Keyboard Layout Experience](../2020-02/colemak.md)
+[My Colemak Keyboard Layout Experience](./2020-02/colemak.md)
