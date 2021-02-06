@@ -6,10 +6,9 @@ I was familiar with other layouts and have been a long time QWERTY user (30 or s
 
 ## Week 1
 
-What a pain! My fingers are almost useless! I decided I could not afford a performance hit at work. I type most of the day on either documents, emails or source code so I did not want to take one hour to replay to an email or to type a sentence. During the day, I have been using QWERTY for work. At lunch I practice Colemak and, when I get a break, I try to type with it to. I have been using https://www.keybr.com/ and https://monkeytype.com/ to practice. I am able to transcribe the words on the screen much more easily than writing them myself.
+What a pain! My fingers are almost useless! I decided I could not afford a performance hit at work. I type most of the day on either documents, emails or source code so I did not want to take one hour to replay to an email or to type a sentence. During the day, I have been using QWERTY for work. At lunch I practice Colemak and, when I get a break, I try to type with it to. I have been using https://www.keybr.com/ and https://monkeytype.com/ to practice. I am able to transcribe the words on the screen much more easily than writing them myself. It is definitely an experience.
 
-
-
+I have also noticed a little tension on my right hand. I have read online that this could be due to the extra strain the pinky and ring fingers are. I believe that is the case, so I will give it some time. Another thing I did was to switch back the backspace key from the capslock location to its original place. I had to do this because I still use QWERTY and I use a dedicated keyboard for it. I find it easy to switch between layouts if I also switch keyboards.
 
 
 
