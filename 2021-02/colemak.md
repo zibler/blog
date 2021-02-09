@@ -10,6 +10,10 @@ What a pain! My fingers are almost useless! I decided I could not afford a perfo
 
 I have also noticed a little tension on my right hand. I have read online that this could be due to the extra strain the pinky and ring fingers are. I believe that is the case, so I will give it some time. Another thing I did was to switch back the backspace key from the capslock location to its original place. I had to do this because I still use QWERTY and I use a dedicated keyboard for it. I find it easy to switch between layouts if I also switch keyboards.
 
+## Week 2
 
+This is my second week. I have been practicing online throughout the day. Today I actually typed most of the day using Colemak. For the most part I actually managed fine. A couple of times I switched to QWERTY just because I needed the speed (perhaps the break!). When doing so, it actually took a bit of time to go back. It was not instant, but I managed. I actually use a different keyboard just to try to trick my brain. It seems to help.
+
+Another thing I did this week is configure my keyboard to have two backspace keys: the original and the capslock key. This helped with switching between layouts.
 
 and if you are wondering....yes...I wrote this with colemak
