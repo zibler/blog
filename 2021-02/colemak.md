@@ -12,8 +12,15 @@ I have also noticed a little tension on my right hand. I have read online that t
 
 ## Week 2
 
-This is my second week. I have been practicing online throughout the day. Today I actually typed most of the day using Colemak. For the most part I actually managed fine. A couple of times I switched to QWERTY just because I needed the speed (perhaps the break!). When doing so, it actually took a bit of time to go back. It was not instant, but I managed. I actually use a different keyboard just to try to trick my brain. It seems to help.
+This is my second week. I have been practicing online throughout the day. Today I actually typed most of the day using Colemak. For the most part I actually managed fine. A couple of times I switched to QWERTY just because I needed the speed (perhaps the break!). When doing so, it actually took a bit of time to go back. It was not instant, but I managed. I actually use a different keyboard just to try to trick my brain when switching layouts. It seems to help.
 
-Another thing I did this week is configure my keyboard to have two backspace keys: the original and the capslock key. This helped with switching between layouts.
+Another thing I did this week is configure my keyboard to have two backspace keys: the original and the capslock key. This helped with switching between layouts. The capslock key is still there in the original place, but it is now accessed via the FN layer. This chang was actually a really good one. It has helped me not getting confused with the new backspace.
+
+I finished the week typing exclusively in Colemak, which was exciting. Note that I still cannot type like I used to, and the one time when I needed to take some notes I actually did it on a notebook by hand. I just couldn't do it fast enough on the spot.
+
+I think I am getting the hang of this. Let's see what next week brings.
+
+
+
 
 and if you are wondering....yes...I wrote this with colemak
