@@ -22,7 +22,9 @@ I think I am getting the hang of this. Let's see what next week brings.
 
 ## Week 3
 
-I am currently at the beginning of week 3. I have completed the initial training from https://keybr.com. I have gone through all of the letters and now I moved on to practicing words. I can definitely see that I am improving which is a good sign. I still cannot type as fast as I was able to with QWERTY, but the speed is getting there. My average speed on keybr.com is 33.8 wpm, with a top speed of 51.2 wpm. It is likely that I will be typing colemak all week. In fact, it has been about a week since I typed QWERTY last. I do notice that if I start typing fast, my fingers tend to go back to QWERTY.
+I am currently at the beginning of week 3. I have completed the initial training from https://keybr.com. I have gone through all of the letters and now I moved on to practicing words. I can definitely see that I am improving which is a good sign. I still cannot type as fast as I was able to with QWERTY, but the speed is getting there. My average speed on keybr.com is 33.8 wpm, with a top speed of 51.2 wpm. On monkeytype.com, my average speed is 33 wpm with a highest speed of 40.72 wpm. Both sites seem to agree on the average speed which is nice to see.
+
+It is likely that I will be typing colemak all week. In fact, it has been about a week since I typed QWERTY last. I do notice that if I start typing fast, my fingers tend to go back to QWERTY.
 
 
 and if you are wondering....yes...I wrote this with colemak
