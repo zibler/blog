@@ -26,5 +26,7 @@ I am currently at the beginning of week 3. I have completed the initial training
 
 It is likely that I will be typing colemak all week. In fact, it has been about a week since I typed QWERTY last. I do notice that if I start typing fast, my fingers tend to go back to QWERTY.
 
+Today I went back to https://www.ratatype.com/. This is a website I had used to test and train my typing. I took a test, just to see how good (or bad!) I was doing. My speed was 39.4 wpm whereas my best speed on this site was 68.9 wpm, almost 30 wpm less than my best. This is about half the speed I could do before. Anyhow, I just wanted to see and compare against an old baseline.
+
 
 and if you are wondering....yes...I wrote this with colemak
