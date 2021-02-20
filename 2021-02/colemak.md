@@ -28,5 +28,10 @@ It is likely that I will be typing colemak all week. In fact, it has been about 
 
 Today I went back to https://www.ratatype.com/. This is a website I had used to test and train my typing. I took a test, just to see how good (or bad!) I was doing. My speed was 39.4 wpm whereas my best speed on this site was 68.9 wpm, almost 30 wpm less than my best. This is about half the speed I could do before. Anyhow, I just wanted to see and compare against an old baseline.
 
+I reached the end of the week having typed with Colemak all week. I am starting to feel more comfortable using this new layout. I can now type at a decent speed. At least enough to not get frustrated.
+I noticed that it is somewhat tricky to type passwords, but not impossible. When trying to type faster, QWERTY surfaces and gets in the way so I have to slow down. This is even worse if I am trying to take notes while in a call for work (pressure I guess).
+I can consistently type above 40 wpm. I am hoping to start typing above 50 wpm sometime soon. Once I reach 60 wpm, I will be pretty much where I was before. I think that will roughly take a bit over a month. Not bad I think.
+
+One last thing...why did the S and the R switched places? Was this really necessary? For real?
 
 and if you are wondering....yes...I wrote this with colemak
