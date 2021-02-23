@@ -34,4 +34,9 @@ I can consistently type above 40 wpm. I am hoping to start typing above 50 wpm s
 
 One last thing...why did the S and the R switched places? Was this really necessary? For real?
 
+## Week 4
+
+It is the beginning of week 4. I have been typing using Colemak exclusively for about a week now, perhaps a bit more. I am getting better at typing faster, especially when typing live in front of people.
+I have been practicing online mainly on monkeytype.com now. Yesterday I changed the settings so that the tests would use the 10k most used words in the English language. Unfortunately, this caused my wpm to drop to about 40, when I was already typing a bit above that. It only means more combinations of letters I am not used to. I will press on though.
+
 and if you are wondering....yes...I wrote this with colemak
