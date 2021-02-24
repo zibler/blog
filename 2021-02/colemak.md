@@ -41,4 +41,6 @@ I have been practicing online mainly on monkeytype.com now. Yesterday I changed 
 
 Something interesting happened today in this journey. I was asked to take some notes during a meeting. Now, before the switch I was able to do just that and capture almost all the conversations without any problem. Granted, there was spelling mistakes, but I would always go back and fix those after the fact. However, I was not able to do that today. Instead, I had to take notes by hand and then transcribe. Not bad, but things like this make me wonder if this is worth it.
 
+One more thing. I am going to focus on accuracy rather than speed. I am aiming for 98% initially. My average accuracy is 96% out of 259 tests I have taken in monkeytype.com. Not bad, but I think that if I focus on accuracy speed will come naturally.
+
 and if you are wondering....yes...I wrote this with colemak
