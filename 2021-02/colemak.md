@@ -39,4 +39,6 @@ One last thing...why did the S and the R switched places? Was this really necess
 It is the beginning of week 4. I have been typing using Colemak exclusively for about a week now, perhaps a bit more. I am getting better at typing faster, especially when typing live in front of people.
 I have been practicing online mainly on monkeytype.com now. Yesterday I changed the settings so that the tests would use the 10k most used words in the English language. Unfortunately, this caused my wpm to drop to about 40, when I was already typing a bit above that. It only means more combinations of letters I am not used to. I will press on though.
 
+Something interesting happened today in this journey. I was asked to take some notes during a meeting. Now, before the switch I was able to do just that and capture almost all the conversations without any problem. Granted, there was spelling mistakes, but I would always go back and fix those after the fact. However, I was not able to do that today. Instead, I had to take notes by hand and then transcribe. Not bad, but things like this make me wonder if this is worth it.
+
 and if you are wondering....yes...I wrote this with colemak
