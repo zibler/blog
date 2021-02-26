@@ -43,4 +43,9 @@ Something interesting happened today in this journey. I was asked to take some n
 
 One more thing. I am going to focus on accuracy rather than speed. I am aiming for 98% initially. My average accuracy is 96% out of 259 tests I have taken in monkeytype.com. Not bad, but I think that if I focus on accuracy speed will come naturally.
 
+Today I had to take some notes from an online event. The event was a series of presentations from several speakers. In the past this would not have been a problem. I was usually able to type as the speakers presented and capture almost all remarks and conversations. However, I am in the middle of this switch and I am not at the speed I was. I also did not want to switch back to QWERTY because I was affraid I was going to be all messed up. I took all my notes by hand. It was painful. I then transcribed the notes. Not the ideal case. I do wonder when things like this happen, if it all makes senses, if it was the right thing to do? I think that it all comes down to trying something new, different and be willing to take certain risks. I am going to push forward! Maybe a few months from now I will look at this as a distant memory and laugh.
+
+One more thing. While transcribing my notes I noticed that I cannot read and type at the same time. I am touchtyping as I type this. I don't have to look at the keyboard at all. But for some reason, I cannot read and type yet. I think this is all due to the muscle memory not being developed yet. We'll see.
+
+
 and if you are wondering....yes...I wrote this with colemak
