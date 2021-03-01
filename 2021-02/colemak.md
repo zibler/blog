@@ -49,7 +49,19 @@ One more thing. While transcribing my notes I noticed that I cannot read and typ
 
 I am finishing up the week after having typed again all week using colemak. I definitely struggled this week. The struggle came from having to type fast at times, particularly when taking notes. It is not a big deal if I am typing an email or a document. But, if I need to take some quick notes, then it becomes a problem. Now, I was able to deal with the problem by using the old fashion pen and paper. Still a problem though.
 
-I keep practicing using monkeytype.com. I recently started using quotes for practicing. I wanted a realistic text to practice with, and it is the closest thing to typing a document or taking notes that I could get to. When I made this change, my speed dropped. It makes sense, but nonetheless it dropped. I keep pushing though. When I think about it I only switched about 3 weeks ago, so not bad.
+I keep practicing using monkeytype.com. I recently started using quotes for practicing. I wanted a realistic text to practice with, and it is the closest thing to typing a document or taking notes that I could get to. When I made this change, my speed dropped. It makes sense, but nonetheless it dropped. I keep pushing though. When I think about it I only switched 4 weeks ago, so not bad.
 
+
+## Week 5
+
+This week I continue to practice. I found a website I will try. The website is https://www.typelit.io/. The idea is very similar to Amphetype. They basically have books you can select and type. I think this may be a better way to practice. It is closer to real world scenarios. We'll see.
+
+I continue to practice as the week goes by. I have done some practice in typelit.io. It is nice and you get to read a little while you are at it. I am still using monkeytype.com though. I guess I need a change from time to time. I do feel I am getting better, but I still don't feel "fluent" to call it a success. I will just keep trying. I can certainly see my average WPM is trending in the up direction. These are some of the values sampled at different times in monkeytype.com:
+
+- Feb 15th: 27.93 WPM
+- Feb 23rd: 43.74 WPM
+- Mar 1st: 48.73 WPM
+
+As you can see I am approaching 50 WPM. This is exciting. I am hopeful it will continue.
 
 and if you are wondering....yes...I wrote this with colemak
