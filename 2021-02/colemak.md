@@ -60,8 +60,17 @@ I continue to practice as the week goes by. I have done some practice in typelit
 
 - Feb 15th: 27.93 WPM
 - Feb 23rd: 43.74 WPM
-- Mar 1st: 48.73 WPM
+- Mar 1st: 47.82 WPM
 
 As you can see I am approaching 50 WPM. This is exciting. I am hopeful it will continue.
+
+As I said before I am changed my settings in monkeytype to 10k English words. My current statistics are:
+
+Average wpm: 43
+Tests completed: 369 ouf of 371 started
+Average accuracy: 97%
+Average consistency: 67%
+
+I am recording these values so that I can come back in a month or so, read this, and hopefully feel good about my progress.
 
 and if you are wondering....yes...I wrote this with colemak
