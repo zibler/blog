@@ -73,4 +73,6 @@ Average consistency: 67%
 
 I am recording these values so that I can come back in a month or so, read this, and hopefully feel good about my progress.
 
+I continue to type using Colemak exclusively. At this point, it seems that if I go back to QWERTY I am looking at a similar effort to what it will take to just keep going. I also did some coding today and the typing experience is weird still. I don't quite feel fluent in Colemak yet. I guess reminds me to learning another language in a way. My native language is QWERTY and I am learning Colemak. It takes some time and practice to be able to carry on a conversation without struggle.
+
 and if you are wondering....yes...I wrote this with colemak
