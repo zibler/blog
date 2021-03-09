@@ -81,4 +81,8 @@ An interesting note from late in the day. I noticed that I seem to do better typ
 
 The learning continues. I can't quite say if things are getting better or not. On one side, I keep practicing using monkeytype.com and the trend in speed continues to be up. I have been using the quote tests there. On the other hand, I still seem to be making many (don't really know how many) mistakes when just typing myself. On monkeytype my supposed average accuracy is 97% (out of 422 tests) which I don't consider terrible. However, I have this nagging feeling that such accuracy drops drastically the moment I don't have the word in front of me to read it before I type it. Trying to type as somebody is speaking to me in order to take notes is nearly impossible at the moment. My fingers just shutdown. I think my brain is still struggling with the task of typing using a new layout. I can only hope things will improve with practice.
 
+## Week 6
+
+Today is the first day of week number six. Not a whole lot to report in terms of the types of exercises I am doing or anything like that. Today I did do some typing, not as much as I would normally do, and my fingers felt a bit more relaxed and "normal" in a way. I think this is a good sign that things are starting to "click". I cannot listen and type still, but I think that will come with time. I can certainly write at a much better speed now which is refreshing. Pressing on...
+
 and if you are wondering....yes...I wrote this with colemak
