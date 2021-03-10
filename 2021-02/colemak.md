@@ -85,4 +85,6 @@ The learning continues. I can't quite say if things are getting better or not. O
 
 Today is the first day of week number six. Not a whole lot to report in terms of the types of exercises I am doing or anything like that. Today I did do some typing, not as much as I would normally do, and my fingers felt a bit more relaxed and "normal" in a way. I think this is a good sign that things are starting to "click". I cannot listen and type still, but I think that will come with time. I can certainly write at a much better speed now which is refreshing. Pressing on...
 
+I continue with my journey through this sea of keys. Today my typing felt fluid. It did not last all day, but it felt right most of the morning at least. This brings me hope that one of this days it will all just click. I am still practicing on monkeytype.com, mainly using the quote tests. My speed feels pretty good and it has been oscillating between 50 wpm and 55 wpm with an accuracy of around 97%. To me the ultimate test will be to be able to type as I listen to somebody speak and capture nearly everything they say. That's when I'll know I managed to switch successfully.
+
 and if you are wondering....yes...I wrote this with colemak
