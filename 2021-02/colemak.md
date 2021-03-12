@@ -64,7 +64,7 @@ I continue to practice as the week goes by. I have done some practice in typelit
 
 As you can see I am approaching 50 WPM. This is exciting. I am hopeful it will continue.
 
-As I said before I am changed my settings in monkeytype to 10k English words. My current statistics are:
+As I said before I changed my settings in monkeytype to 10k English words. My current statistics are:
 
 Average wpm: 43
 Tests completed: 369 ouf of 371 started
@@ -88,5 +88,7 @@ Today is the first day of week number six. Not a whole lot to report in terms of
 I continue on my journey through this sea of keys. Today my typing felt fluid. It did not last all day, but it felt right most of the morning at least. This brings me hope that one of these days it will all just click. I am still practicing on monkeytype.com, mainly using the quote tests. My speed feels pretty good and it has been oscillating between 50 wpm and 55 wpm with an accuracy of around 97%. To me the ultimate test will be to be able to type as I listen to somebody speak and capture nearly everything they say. That's when I'll know I managed to switch successfully.
 
 Not much to update today. Another normal day typing on the new layout. I am trying to work on being able to type notes from discussions or meetings with colleagues. I decided I was going to start taking notes from informal meetings. It helps to know that I don't need to worry if I miss something important and it helps me practice the skill. I figure that I will only improve by doing, so may as well go for it.
+
+My typing today was off. I don't know what happened or why, but it did not feel right. It was clumsy, with lots of mistakes and not as fast as I wanted it to be. I think it is probably a fluke and hopefully won't happen again, nonetheless it was not fun. I am also noticing that I make mistakes with some combinations of letters. For example "g" followed by "h", "i" followed by "e" or "k" followed by "n" (or vice versa like "thanks"). I am going to try to pay a bit more attention to these combinations when I type.
 
 and if you are wondering....yes...I wrote this with colemak
