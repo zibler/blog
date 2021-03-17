@@ -101,7 +101,7 @@ Entering week #7. I type all day using Colemak. In some cases, typing feels flui
 
 Today I also observed an interesting thing. I noticed that I struggle a bit when having to type acronyms or abbreviations. The reason is that these are mostly capitalized. I use the shift key in many instances to type the upper case characters. The Colemak layout seems to be a bit more even between characters typed with the left and right hands. This means I must alternate between left and right shift keys. I used to do this with QWERTY (there we go...) without much trouble, but it seemed that in some cases I could hold the shift key down and type a few characters before having to alternate. Just an observation I guess. Not impossible to overcome, but the rhythms are certainly different in Colemak.
 
-Now to testing. As I said before most of my testing now a days is typing some sort of quote or paragraph from a book. My thinking is that it resembles real life typing a bit closer. The statistics from the last week are:
+Now to testing. As I said before, most of my testing nowadays is typing some sort of quote or paragraph from a book. My thinking is that it resembles real life typing a bit closer. The statistics from the last week are:
 
 Average: 57 wpm
 Tests completed: 105
@@ -112,6 +112,7 @@ Typing speed is looking good! Again, I don't know if it is because I am typing q
 
 I still continue practicing as much as I can. I think I still make way too many mistakes typing in order for me to call it a success. However, I am making progress which is important.
 
+Again, today I felt my typing was very fluid in the morning. This is the second time I experience this. Exciting! I think it means my brain is finally getting the hang of it. I am hoping to continue reporting days like this. Note that it did not last the whole day, but that is ok. I can live with that. Another interesting experience from today: I noticed that I make more mistakes when typing capitalized acronyms. The mistakes I make are typing letters in the old QWERTY layout. Just something interesting to point out. It probably means that my brain commits certain typing constructs (small case vs upper case) slightly different.
 
 
 and if you are wondering....yes...I wrote this with colemak
