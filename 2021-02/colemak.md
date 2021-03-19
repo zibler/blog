@@ -114,5 +114,16 @@ I still continue practicing as much as I can. I think I still make way too many 
 
 Again, today I felt my typing was very fluid in the morning. This is the second time I experience this. Exciting! I think it means my brain is finally getting the hang of it. I am hoping to continue reporting days like this. Note that it did not last the whole day, but that is ok. I can live with that. Another interesting experience from today: I noticed that I make more mistakes when typing capitalized acronyms. The mistakes I make are typing letters in the old QWERTY layout. Just something interesting to point out. It probably means that my brain commits certain typing constructs (small case vs upper case) slightly different.
 
+I am happy to report that I am able to type mid 50's in monkeytype.com. I can do this with quote tests and also words tests. Quote tests are usually better. Words tests are not always as good as I would like them to be, but still good, compared to what they were back in Week 5. Not bad for just two weeks. I think I am approaching my old QWERTY speed and typing is feeling more natural now. For example, today it felt "right" for most of the day. I had not experienced that before so I think it is a good sign.
+
+Here are my numbers over time:
+
+- Feb 15th: 27.93 WPM
+- Feb 23rd: 43.74 WPM
+- Mar 1st: 47.82 WPM
+- Mar 8th: 53.93 WPM
+- Mar 17th: 57.7 WPM
+
+The trend is definitely in the right direction. As for accuracy, I am at 97% average, all time (out of 619 tests) and for the last 10 tests. Accuracy is not bad, but I wish I could go up. There is room for improvement for sure.
 
 and if you are wondering....yes...I wrote this with colemak
