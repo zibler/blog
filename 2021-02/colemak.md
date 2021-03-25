@@ -126,4 +126,24 @@ Here are my numbers over time:
 
 The trend is definitely in the right direction. As for accuracy, I am at 97% average, all time (out of 619 tests) and for the last 10 tests. Accuracy is not bad, but I wish I could go up. There is room for improvement for sure.
 
+One more thing for this week's update. As I continue practicing, I started using the feature in monkeytype.com that allows me to practice the words I misspelled during a test. The idea is that every time I take I test, I also practice any words that I miss right after that. I see it as a way to improve along the way in a more structured way. Kind of practicing what you are not as good at.
+
+## Week 8
+
+Close to two months at this. Typing is definitely manageable now. I still make way too many mistakes when typing, especially if I am typing live in front of someone, or while trying to capture someone's thoughts. Not ideal, but the good news is that I can actually do it, which was not a possibility a couple weeks ago.
+The last few days I have been feeling some pain on my right wrist. I am not sure why. I know when I started using Colemak I did feel some pain, but it later went away. I am hoping this is something temporary. I can tell you that the right hand burden is higher in Colemak than what it is in QWERTY.
+
+I can also tell you that my QWERTY skills are eroding at an exponential rate. To the point, that I think it would be a similar effort to go back to QWERTY than what it has been adopting Colemak. Something to keep in mind for all of you looking to switch. I really find it difficult to maintain both skills at a sufficient quality level. I know there are some people out there that are able to do both, but not me, at least not at this time.
+
+Lastly, here is an updated table with my speed progress:
+
+- Feb 15th: 27.93 WPM
+- Feb 23rd: 43.74 WPM
+- Mar 1st: 47.82 WPM
+- Mar 8th: 53.93 WPM
+- Mar 17th: 57.7 WPM
+- Mar 22nd: 58.22 WPM
+
+
+
 and if you are wondering....yes...I wrote this with colemak
