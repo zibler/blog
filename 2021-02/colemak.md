@@ -131,7 +131,7 @@ One more thing for this week's update. As I continue practicing, I started using
 ## Week 8
 
 Close to two months at this. Typing is definitely manageable now. I still make way too many mistakes when typing, especially if I am typing live in front of someone, or while trying to capture someone's thoughts. Not ideal, but the good news is that I can actually do it, which was not a possibility a couple weeks ago.
-The last few days I have been feeling some pain on my right wrist. I am not sure why. I know when I started using Colemak I did feel some pain, but it later went away. I am hoping this is something temporary. I can tell you that the right hand burden is higher in Colemak than what it is in QWERTY.
+The last few days I have been feeling some pain on my right wrist. I am not sure why. I know when I started using Colemak I did feel some pain, but it later went away. I am hoping this is something temporary. I can tell you that the right hand's burden is higher in Colemak than it is in QWERTY.
 
 I can also tell you that my QWERTY skills are eroding at an exponential rate. To the point, that I think it would be a similar effort to go back to QWERTY than what it has been adopting Colemak. Something to keep in mind for all of you looking to switch. I really find it difficult to maintain both skills at a sufficient quality level. I know there are some people out there that are able to do both, but not me, at least not at this time.
 
@@ -143,6 +143,37 @@ Lastly, here is an updated table with my speed progress:
 - Mar 8th: 53.93 WPM
 - Mar 17th: 57.7 WPM
 - Mar 22nd: 58.22 WPM
+
+Update: I haven't done much practice this week. I have been just busy. I have been typing though, so I guess that counts for something. I am still feeling some pain in my wrist. My right wrist. I think I am starting to type faster which puts extra strain in my right hand. I am hoping that as I continue to get better, my hand will get stronger and the pain will go away.
+
+## Week 9
+
+I am on my ninth week now. Typing is much more natural now a days, although not a 100% mechanical. No big deal though. I definitely feel like the goal is within reach. I still make mistakes and most of them are key presses on old QWERTY key locations. I can also listen and type now, something I was not able to do for a good while. I am not as fast yet as I once was, but I also think it is just matter of time before I am there.
+
+I am not sure how much longer I will be recording the experience. I definitely feel like I am almost there. Even if things are not perfect, I think it is just a matter of continuing typing on this layout before it is all mechanic. I will continue practicing on monkeytype.com to make sure I get there.
+
+Here are my statistics so far:
+
+**Last 10 tests**
+
+- Average wpm: 66</br>
+- Average accuracy: 98%
+
+**Last week (68 tests)**
+
+- Average wpm: 61</br>
+- Average accuracy: 98%
+
+**Last month (383 tests)**
+
+- Average wpm: 56</br>
+- Average accuracy: 98%
+
+**All time (744 tests)**
+
+- Average wpm: 49</br>
+- Average accuracy: 97%
+
 
 
 
