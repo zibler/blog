@@ -174,7 +174,9 @@ Here are my statistics so far:
 - Average wpm: 49</br>
 - Average accuracy: 97%
 
+I am almost at the end of week 9. I continue to make progress. At this point, the layout feels a bit more natural. I think I am within a few months of transitioning to a "mechanical" experience. Not bad after just a couple of months.
 
+On a side note, I continue to make my experience more enjoyable. I bought myself a new keyboard; a mechanical keyboard. This definitely helps keeping the interest up. I would highly recommend it to anybody that is working on the transition. It is not that you need another keyboard, but the novelty of a new device certainly helps to keep the spirits up and the experience interesting. Just keep in mind that not all keyboards are designed for Colemak, so do your research. For example, my new keyboard comes with double shot PBT keycaps, and you can move them and everything. However, each key row has a different profile, so if you move them the key profiles get out wack. Something to keep in mind.
 
 
 and if you are wondering....yes...I wrote this with colemak
